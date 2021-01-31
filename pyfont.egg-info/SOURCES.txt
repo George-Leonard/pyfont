@@ -1,0 +1,16 @@
+README.txt
+setup.py
+pyfont/__init__.py
+pyfont/pyfont.py
+pyfont.egg-info/._PKG-INFO
+pyfont.egg-info/._SOURCES.txt
+pyfont.egg-info/._dependency_links.txt
+pyfont.egg-info/._top_level.txt
+pyfont.egg-info/PKG-INFO
+pyfont.egg-info/SOURCES.txt
+pyfont.egg-info/dependency_links.txt
+pyfont.egg-info/top_level.txt
+tools/Discord bot - pyfont.py
+tools/automatic-font-dictionary.py
+tools/matplotlib implentation example.py
+tools/test.py
