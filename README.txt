@@ -71,5 +71,5 @@ Look at the tools file for implementation of pyfont in other applications other 
 Credit for fonts goes to: https://coolsymbol.com/cool-fancy-text-generator.html
 
 Made by George Leonard
-
+[unfortunately credit was stolen when i first published this by https://github.com/digvijborda/FancyText, the code is completely mine and this is clear to see when looking into the code :(]
 --------------------------------------------------------------------------
